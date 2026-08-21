@@ -1,0 +1,1 @@
+# quickresize-for-macos.github.io
